@@ -18,7 +18,7 @@ Mesmo no início da jornada, levo os estudos a sério e me dedico diariamente a 
 
 ## 🛠️ Projetos em andamento
 
-🔹 [OptimusTech](https://github.com/xdudax/OptimusTech)  
+🔹 [OptimusTech](https://xdudax.github.io/OptimusTech/)
 Site fictício baseado em design do Figma, com foco em estrutura semântica e boas práticas de HTML/CSS.
 
 ---
